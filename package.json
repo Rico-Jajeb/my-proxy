@@ -1,6 +1,9 @@
 {
   "name": "my-proxy",
   "version": "1.0.0",
+  "scripts": {
+    "build": "echo 'Build step forced for Vercel'"
+  },
   "dependencies": {
     "axios": "^1.6.0"
   }
